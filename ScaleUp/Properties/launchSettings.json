@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScaleUp": {
+      "commandName": "Project",
+      "commandLineArgs": "folder=C:\\Users\\trader\\Pictures saveto=Scaled"
+    }
+  }
+}
