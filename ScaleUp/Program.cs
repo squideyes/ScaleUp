@@ -10,7 +10,7 @@ var config = new ConfigurationBuilder()
     .AddCommandLine(args)
     .Build();
 
-var apiKey = config["ApiKey"];
+var apiKey = config["ScaleUpApiKey"];
 var file = config["File"];
 var folder = config["Folder"];
 var saveTo = config["SaveTo"];
